@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Mi primer post
+
 ---
-escribo este post para
-luego seguir con otro
-etc
+Bienvenidos a mi bloging!
+
+Creo este blog para compartir mi pasión por la informática, sobre todo por la organización del conocimiento de cualquier clase, haciendo uso de ontologias, de servidores de datos RDF de SPARQL, y navegar los datos de la librería gráfica D3.JS
+
 
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
