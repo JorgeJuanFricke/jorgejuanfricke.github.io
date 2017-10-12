@@ -10,10 +10,10 @@ permalink: /about/
 ####  scripts Powerhell.
 
 
-### More Information
+### Otros intereses
 Psicología, Budismo yy blues
 
 
-### Contact me
+### Contacta conmigo
 
 [jrgjuanf@gmail.com](mailto:jrgjuanf@gmail.com)
