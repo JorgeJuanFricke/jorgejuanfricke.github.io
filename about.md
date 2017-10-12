@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 Auxiliar técnico de informática del Estado
-Desarrollo Semantic web 
-Apache RDF4J y D3.js
-Powerhell
+>Desarrollo Semantic web 
+>Apache RDF4J y D3.js
+>Powerhell
 
 
 ### More Information
