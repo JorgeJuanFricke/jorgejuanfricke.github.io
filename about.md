@@ -7,8 +7,8 @@ permalink: /about/
 ## Auxiliar técnico de informática del Estado.
 > Desarrollo Semantic web con Apache RDF4J y D3.js.
 >
-> Servicio técnico desktops 
-> scripts Powerhell.
+>  Servicio técnico desktops 
+>  scripts Powerhell.
 
 
 ### More Information
