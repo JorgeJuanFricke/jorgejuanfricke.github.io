@@ -11,7 +11,7 @@ permalink: /about/
 
 
 ### Otros intereses
-Psicología, Budismo yy blues
+Psicología, Budismo y blues.
 
 
 ### Contacta conmigo
